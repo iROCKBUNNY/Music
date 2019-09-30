@@ -1,0 +1,36 @@
+google_analytics_id: UA-33449675-11
+
+repository: https://github.com/iROCKBUNNY/Music
+
+timezone: Asia/Shanghai
+
+title: Music
+description: Parse and Download MP3-Format Music File Using NetEase Music API
+keywords: Music, Parse, Download, iROCKBUNNY
+url: https://music.irockbunny.com
+
+author: iROCKBUNNY
+author_url: https://irockbunny.com
+organization: TEELAB
+organization_url: https://teelab.net
+
+contact: contact[at]irockbunny[dot]com
+github: https://github.com/iROCKBUNNY
+
+icon: music
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- archive
+- Gemfile
+- Gemfile.lock
+- script
+- vendor

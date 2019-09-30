@@ -1,0 +1,3 @@
+music_url: https://music.163.com/#/song?id={song_id}
+music_url_regex: /^https:\/\/music\.163\.com\/#\/song\?id=\d+$/
+parse_url: https://music.163.com/song/media/outer/url?id={song_id}.mp3
